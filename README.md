@@ -2,7 +2,7 @@
 
 I'm Gemilang Tirto <!--, a [Your Role] specializing in [Your Specialization]. I'm passionate about [Your Interests or Field] and always eager to learn more about [Related Topics]. -->
 
-### 📈 GitHub Stats
+<!--  ### 📈 GitHub Stats
 
 <p align="left">
 <a href="https://github.com/StreamLine-18">
@@ -11,7 +11,7 @@ I'm Gemilang Tirto <!--, a [Your Role] specializing in [Your Specialization]. I'
 </a>
 </p>
 
-<!--### 🎖️ Certifications
+<!-- ### 🎖️ Certifications
 
 Here are some of my verified certifications:
 
