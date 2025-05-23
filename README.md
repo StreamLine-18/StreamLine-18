@@ -9,43 +9,35 @@ I'm Gemilang Tirto.
 
 ## 💻 Tech Stack & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,cs,kotlin,laravel,gcp,firebase,azure,mysql,mongodb,docker,git,github,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,cs,kotlin,laravel,gcp,firebase,azure,mysql,mongodb,docker,git,github,figma,flutter&theme=light)](https://skillicons.dev)
+
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white&color=073042)
 
 * **Languages:** HTML, C#, Kotlin
 * **Frameworks:** Laravel, Jetpack Compose, Flutter
 * **Cloud & Databases:** Google Cloud (GCP), Firebase, Azure, MySQL, MongoDB
 * **Tools:** Docker, Git, GitHub, Figma
 
+## 🔧 IDEs & Editors
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=StreamLine-18&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=StreamLine-18&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=StreamLine-18&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![My IDEs](https://skillicons.dev/icons?i=vscode,androidstudio,phpstorm&theme=light)](https://skillicons.dev)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=StreamLine-18&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+* Visual Studio Code
+* Android Studio
+* PhpStorm
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=StreamLine-18&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 📊 GitHub Stats & Trophies 🏆
 
----
-[![](https://visitcount.itsvg.in/api?id=StreamLine-18&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
- ### 📈 GitHub Stats
-
-<p align="left">
-<a href="https://github.com/StreamLine-18">
+<p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=StreamLine-18&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=StreamLine-18&layout=compact&theme=algolia"/>
-</a>
+</p>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=StreamLine-18&theme=algolia&hide_border=false"/>
 </p>
 
-### 🎖️ Certifications
+## 🎖️ Certifications
 
 Here are some of my verified certifications:
 
