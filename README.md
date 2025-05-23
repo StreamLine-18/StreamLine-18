@@ -9,11 +9,11 @@ I'm Gemilang Tirto.
 
 ## 💻 Tech Stack & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,cs,kotlin,laravel,gcp,firebase,azure,mysql,mongodb,docker,git,github,figma,flutter&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,cs,kotlin,php,laravel,gcp,firebase,azure,mysql,mongodb,docker,git,github,figma,flutter&theme=light)](https://skillicons.dev)
 
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white&color=073042)
 
-* **Languages:** HTML, C#, Kotlin
+* **Languages:** HTML, C#, Kotlin, PHP
 * **Frameworks:** Laravel, Jetpack Compose, Flutter
 * **Cloud & Databases:** Google Cloud (GCP), Firebase, Azure, MySQL, MongoDB
 * **Tools:** Docker, Git, GitHub, Figma
