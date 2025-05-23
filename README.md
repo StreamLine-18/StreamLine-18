@@ -2,7 +2,7 @@
 
 I'm Gemilang Tirto <!--, a [Your Role] specializing in [Your Specialization]. I'm passionate about [Your Interests or Field] and always eager to learn more about [Related Topics]. -->
 
-<!--  ### 📈 GitHub Stats
+ ### 📈 GitHub Stats
 
 <p align="left">
 <a href="https://github.com/StreamLine-18">
@@ -11,7 +11,7 @@ I'm Gemilang Tirto <!--, a [Your Role] specializing in [Your Specialization]. I'
 </a>
 </p>
 
-<!-- ### 🎖️ Certifications
+### 🎖️ Certifications
 
 Here are some of my verified certifications:
 
@@ -22,5 +22,5 @@ Here are some of my verified certifications:
   <a href="https://www.credly.com/badges/2a14e645-e083-4ccf-aaf2-8dd3624b29f7" target="_blank" rel="noopener noreferrer">
     <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Microsoft Certified: Azure Fundamentals" width="150" height="150"/>
   </a>
-</p> -->
+</p> 
 
