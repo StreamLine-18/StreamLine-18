@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 I'm Gemilang Tirto.
-* I'm passionate about **software development** and **cloud technologies**. ☁️
-* Currently learning how to develop apps using **Jetpack Compose**.  🤖
+<!-- * I'm passionate about **software development** and **cloud technologies**. ☁️* Currently learning how to develop apps using **Jetpack Compose**.  🤖 -->
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gemilang_tirto) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gemilangtirto) 
