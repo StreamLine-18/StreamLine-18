@@ -27,7 +27,7 @@ I'm Gemilang Tirto.
 * PhpStorm
 
 
-## 📊 GitHub Stats & Trophies 🏆
+<!--## 📊 GitHub Stats & Trophies 🏆
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=StreamLine-18&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -35,7 +35,7 @@ I'm Gemilang Tirto.
 </p>
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=StreamLine-18&theme=algolia&hide_border=false"/>
-</p>
+</p> -->
 
 ## 🎖️ Certifications
 
